@@ -4,7 +4,7 @@ Capitalist Conrad wants a stock price simulator for a volatile stock.
 The price starts off at $10.00, and, at the end of every day there is
 a 50% chance it increases by 0 to 17.5%, and
 a 50% chance that it decreases by 0 to 5%.
-If the price rises above $100, or falls below $1, the program should end.
+If the price rises above $100, or falls below $1, the program should end
 The price should be displayed to the nearest cent (e.g. $33.59, not $33.5918232901)
 """
 import random
