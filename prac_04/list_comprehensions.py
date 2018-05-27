@@ -1,6 +1,6 @@
 """
 CP1404/CP5632 Practical
-List comprehensions
+List comprehension
 """
 
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
